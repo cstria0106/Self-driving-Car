@@ -1,11 +1,13 @@
 # Self-driving Car
 
 ## 국문
+<https://raw.githubusercontent.com/cstria0106/Self-driving-Car/master/img/captures/1.png>
 자율주행자동차 프로젝트입니다.
 
 파이카메라로 캡쳐한 이미지의 하얀 길을 분석해 좌우로 회전하는 자동차입니다.
 
 ## 영문
+<https://raw.githubusercontent.com/cstria0106/Self-driving-Car/master/img/captures/2.png>
 It's a self-driving car project.
 
 It turns left / right by detecting white lane in image that captured by PICamera.
