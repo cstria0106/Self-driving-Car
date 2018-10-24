@@ -13,6 +13,7 @@ It turns left / right by detecting white lane in image that captured by PICamera
 ## Screenshots
 ![캡쳐1](https://raw.githubusercontent.com/cstria0106/Self-driving-Car/master/img/captures/1.png)
 ![캡쳐2](https://raw.githubusercontent.com/cstria0106/Self-driving-Car/master/img/captures/2.png)
+[Youtube](https://youtu.be/5QlL2CF6elE)
 
 ## Usage
 #### Parts
