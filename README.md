@@ -14,6 +14,13 @@ It turns left / right by detecting white lane in image that captured by PICamera
 ![캡쳐1](https://raw.githubusercontent.com/cstria0106/Self-driving-Car/master/img/captures/1.png)
 ![캡쳐2](https://raw.githubusercontent.com/cstria0106/Self-driving-Car/master/img/captures/2.png)
 
+## Usage
+#### Parts
+* RaspberryPi 3
+* PiCamera
+* L1911 Motor Driver
+
+
 ## Credit
 충주대원고등학교 3학년
 
